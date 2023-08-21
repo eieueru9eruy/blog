@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Easy-Login';
-  src:  url('../fonts/Easy-Login.eot?oy4gsz');
-  src:  url('../fonts/Easy-Login.eot?oy4gsz#iefix') format('embedded-opentype'),
-    url('../fonts/Easy-Login.ttf?oy4gsz') format('truetype'),
-    url('../fonts/Easy-Login.woff?oy4gsz') format('woff'),
-    url('../fonts/Easy-Login.svg?oy4gsz#Easy-Login') format('svg');
+  src:  url('/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.eot?oy4gsz');
+  src:  url('/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.eot?oy4gsz#iefix') format('embedded-opentype'),
+    url('/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.ttf?oy4gsz') format('truetype'),
+    url('/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.woff?oy4gsz') format('woff'),
+    url('/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.svg?oy4gsz#Easy-Login') format('svg');
   font-weight: normal;
   font-style: normal;
 }
